@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313294883891",
+    "project_id": "xshop-vendor-notifications",
+    "storage_bucket": "xshop-vendor-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313294883891:android:6431a20381f189b2576746",
+        "android_client_info": {
+          "package_name": "qa.xshop.vendor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313294883891-8teeiics7gl86aeif8tf55ksv6pnoccr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSK3oGM7PO1FMiB_3p4NEuhh_rw2dm1Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313294883891-8teeiics7gl86aeif8tf55ksv6pnoccr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
